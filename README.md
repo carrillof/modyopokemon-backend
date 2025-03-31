@@ -1,9 +1,17 @@
 # Modyo Pokemon Backend
 
+## - [API Features](#api-features)
 ## - [API Endpoints](#api-endpoints)
 ## - [Deployment Process](#deployment-process)
 
 ---
+
+# API Features
+
+- ### Basic Authentication
+- ### Unit and Integration Testing
+- ### Error Handling
+- ### Cache
 
 # API Endpoints
 
