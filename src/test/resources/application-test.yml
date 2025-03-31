@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: modyopokemon
+  pokeapi-url: https://pokeapi.co/api/v2
