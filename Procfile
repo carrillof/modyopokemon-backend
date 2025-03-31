@@ -1,1 +1,1 @@
-web: java -jar target/modyopokemon-0.0.1-SNAPSHOT.jar
+web: java -jar build/libs/modyopokemon-0.0.1-SNAPSHOT.jar
