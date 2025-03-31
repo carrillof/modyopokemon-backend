@@ -15,6 +15,14 @@
 
 # API Endpoints
 
+## Testing user
+
+### Username
+modyo
+
+### Password
+123456
+
 ## GET /pokemon?offset={offset}&limit={limit}
 
 ### Description
